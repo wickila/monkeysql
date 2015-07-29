@@ -1,5 +1,5 @@
 #关于monkeysql
-monkeysql是一个用于web.py的轻量化ROM。如果想用ROM。monkeysql与数据库之间的接口既遵循web.py的数据库接口，另外也可以直接使用类似save(),delete()的函数。
+monkeysql是一个用于web.py的轻量化ROM。monkeysql与数据库之间的接口既遵循web.py的数据库接口，另外也可以直接使用类似save(),delete()的函数。
 ###用法
     import monkeysql
     
